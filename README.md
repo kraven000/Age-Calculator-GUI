@@ -66,17 +66,6 @@ pip install customtkinter tkcalendar
 2. When you select a date, it is displayed for confirmation.
 3. Clicking **"Calculate Age"** compares the selected date with today’s date to determine your age.
 
----
-
-## 💡 Future Improvements
-
-* Prevent selection of future dates.
-* Make the layout responsive (use `.grid()` instead of `.place()`).
-* Add more detailed error messages.
-* Support months and days in the age calculation.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](license.txt) file for details.
