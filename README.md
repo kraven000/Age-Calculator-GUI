@@ -83,12 +83,3 @@ This project is licensed under the MIT License — see the [LICENSE](license.txt
 
 ---
 
-**Author:** Your Name
-If you like this project, ⭐ the repo to support!
-
-```
-
----
-
-If you want, I can also prepare the **`requirements.txt`** and a **sample screenshot placeholder** so the repo looks complete when you upload it. That would make it feel more professional when people find it.
-```
